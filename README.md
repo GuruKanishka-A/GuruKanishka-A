@@ -142,16 +142,23 @@ Score updated → Leaderboard refreshed
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1019" height="620" alt="Dashboard" src="https://github.com/user-attachments/assets/46314834-d945-4fe5-931a-dc1d30b463b9" />
 
 ### Translator — 3 simultaneous translations
-![Translator](screenshots/translator.png)
+<img width="964" height="595" alt="Translator" src="https://github.com/user-attachments/assets/56e11dd6-b6c7-4cc5-9ba8-b1b28a789b50" />
+
+### Login page 
+<img width="1019" height="589" alt="image" src="https://github.com/user-attachments/assets/520e7ed0-be34-4319-bbd0-1306d7ae9c4d" />
+
+### Game Features
+<img width="1044" height="595" alt="Game Features" src="https://github.com/user-attachments/assets/eb2e79ca-537d-4830-beb1-24562ff24e4e" />
 
 ### Word Game Interface
-![Game](screenshots/game_interface.png)
+<img width="1193" height="592" alt="Game interface" src="https://github.com/user-attachments/assets/473d0df1-80ff-4c75-8db9-c8d2fae58dd3" />
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+<img width="1174" height="593" alt="image" src="https://github.com/user-attachments/assets/00f0f435-87d6-438a-8a3f-733a23d31905" />
+
 
 ---
 
